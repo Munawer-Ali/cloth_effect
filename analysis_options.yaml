@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - public_member_api_docs
+    - always_declare_return_types
+    - prefer_final_locals
+    - require_trailing_commas

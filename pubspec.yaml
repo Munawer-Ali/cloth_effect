@@ -1,0 +1,29 @@
+name: cloth_effect
+description: >-
+  Turn any widget into a sheet of fabric taped to the wall. Drag it and it
+  lifts, folds and flows back; drag hard and it tears off and falls away.
+version: 0.1.0
+repository: https://github.com/munawer808/cloth_effect
+issue_tracker: https://github.com/munawer808/cloth_effect/issues
+
+topics:
+  - animation
+  - physics
+  - cloth
+  - gestures
+  - ui
+
+environment:
+  sdk: ^3.9.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
