@@ -2,7 +2,7 @@ name: cloth_effect
 description: >-
   Turn any widget into a sheet of fabric taped to the wall. Drag it and it
   lifts, folds and flows back; drag hard and it tears off and falls away.
-version: 0.1.0
+version: 1.0.0
 repository: https://github.com/Munawer-Ali/cloth_effect
 issue_tracker: https://github.com/Munawer-Ali/cloth_effect/issues
 
