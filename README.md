@@ -1,5 +1,7 @@
 # cloth_effect
 
+https://github.com/user-attachments/assets/351b7e9f-13d2-4a07-9446-87031d721f4a
+
 Turn any widget into a sheet of fabric taped to the wall.
 
 Drag it and the fabric lifts, folds and flows back. Drag hard and hold, and the
