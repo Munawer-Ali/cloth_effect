@@ -1,4 +1,4 @@
-## 0.1.0
+## 1.0.0
 
 - Initial release.
 - `Cloth` widget: renders any child as fabric taped to the wall by its top edge.
